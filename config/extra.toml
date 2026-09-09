@@ -1,4 +1,4 @@
 [[ballsdex.packages]]
-location = "https://github.com/Lordkyllian0/Rarity-list-package-v2"
+location = "git+https://github.com/Lordkyllian0/Rarity-list-package-v2"
 path = "raritylist"
 enabled = true
