@@ -2,3 +2,8 @@
 location = "git+https://github.com/Lordkyllian0/Rarity-list-package-v2"
 path = "raritylist"
 enabled = true
+
+[[ballsdex.packages]]
+location = "git+https://github.com/YOUR-USERNAME/YOUR-REPO.git@main"
+path = "shinyannouncer"
+enabled = true
